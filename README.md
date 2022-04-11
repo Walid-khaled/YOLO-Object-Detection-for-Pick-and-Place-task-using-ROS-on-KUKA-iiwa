@@ -10,6 +10,6 @@ colored region initially specified by the operator.
 - **Object Detection**: YOLOv4 
 - **Box Detection**: Color Segmentation in HSI and Morphology operations
 - **Pick and Place**: Object center and orientation and Box center and orientation
-- **Localization w.r.t Robot Base*: Eye-In-Hand Camera Calibration and Transformations
+- **Localization w.r.t Robot Base**: Eye-In-Hand Camera Calibration and Transformations
 - **Hardware Implementation**: KUKA iiwa and ROS
                                                     
