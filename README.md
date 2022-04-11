@@ -42,5 +42,5 @@ Solution: Applying thresholding on detection confidence score.
     - Morphology operations
     - Box center and orientation
 
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845161-c5263d62-3fb4-417c-a40c-b67fa56fac89.png" width="600" height="200" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845161-c5263d62-3fb4-417c-a40c-b67fa56fac89.png" width="800" height="200" /></p>
 
