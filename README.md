@@ -31,6 +31,8 @@ Problems arise due to illumination change, camera orientation, false positive re
 
 Solution: Applying thresholding on detection confidence score.
 
-- Test2. Full video is attached [Test2](https://drive.google.com/file/d/1ancea1p9NzBAG7z_7wcQ2mSaT_crPq88/view?usp=sharing).
+- Test2. Full video is attached [test2](https://drive.google.com/file/d/1ancea1p9NzBAG7z_7wcQ2mSaT_crPq88/view?usp=sharing).
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844601-5b23ccc4-eaec-4402-b841-1047a62ac1ee.gif" width="250" height="140" /></p>
 
+### Object center and orientation 
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844828-a24be0e2-37f9-4fe2-b5c4-9c12115d80aa.png" /></p>
