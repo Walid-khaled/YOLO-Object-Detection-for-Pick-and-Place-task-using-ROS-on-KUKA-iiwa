@@ -14,7 +14,7 @@ colored region initially specified by the operator.
 - **Hardware Implementation**: KUKA iiwa and ROS
 
 ### Workplace Setup (Objects)
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162749872-b8e22f37-6889-4952-b363-8e2a41be1263.png" width="600" height="280" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162749872-b8e22f37-6889-4952-b363-8e2a41be1263.png" width="400" height="280" /></p>
 
 
                                                     
