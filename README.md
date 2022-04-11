@@ -1,4 +1,4 @@
-## Pick-and-Place-Object-detection-using-YOLO-on-KUKA
+## Pick-and-Place-YOLO-Object-detection-using-ROS-on-KUKA
 In this repository, we are going to address one of these operations, pick and place, which is the most widely used in production lines and assembly processes.
 The aim of this project is to select 3 objects out of 6 objects in robot work environment, and place them in specific-colored regions, so that each object will be placed in
 colored region initially specified by the operator.
@@ -16,5 +16,6 @@ colored region initially specified by the operator.
 ### Workplace Setup (Objects)
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162749872-b8e22f37-6889-4952-b363-8e2a41be1263.png" width="400" height="280" /></p>
 
-
+Dataset can be found [here](https://drive.google.com/drive/folders/1f0c6RHHA6wQWN_TKWIUymxcq18y4UrNl?usp=sharing). 
+Dataset preprocessing and labelling 
                                                     
