@@ -36,3 +36,11 @@ Solution: Applying thresholding on detection confidence score.
 
 ### Object center and orientation 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844828-a24be0e2-37f9-4fe2-b5c4-9c12115d80aa.png" width="500" height="200" /></p>
+
+### Box Detection
+    - Color Segmentation in HSI
+    - Morphology operations
+    - Box center and orientation
+
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845161-c5263d62-3fb4-417c-a40c-b67fa56fac89.png" width="500" height="200" /></p>
+
