@@ -49,5 +49,5 @@ Solution: Applying thresholding on detection confidence score.
     - Eye-In-Hand Camera Calibration
     - Transformations
 
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845702-f06cb3eb-bd89-42bc-8fab-6a26bfeab38c.png" width="500" height="200" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845702-f06cb3eb-bd89-42bc-8fab-6a26bfeab38c.png" width="400" height="250" /></p>
 
