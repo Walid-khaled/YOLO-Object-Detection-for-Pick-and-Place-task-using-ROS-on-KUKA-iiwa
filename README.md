@@ -52,4 +52,4 @@ Solution: Applying thresholding on detection confidence score.
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845702-f06cb3eb-bd89-42bc-8fab-6a26bfeab38c.png" width="400" height="250" /></p>
 
 ### Hardware Implementation
-   KUKA iiwa robot [a link](https://github.com/IFL-CAMP/iiwa_stack) 
+   KUKA iiwa robot [iiwa_stack](https://github.com/IFL-CAMP/iiwa_stack) 
