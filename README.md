@@ -17,5 +17,10 @@ colored region initially specified by the operator.
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162749872-b8e22f37-6889-4952-b363-8e2a41be1263.png" width="400" height="280" /></p>
 
 Dataset can be found [here](https://drive.google.com/drive/folders/1f0c6RHHA6wQWN_TKWIUymxcq18y4UrNl?usp=sharing). 
-Dataset preprocessing and labelling 
+Labelling is done on [roboflow](https://roboflow.com/)
+
+### Dataset preprocessing and augmentations 
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162843034-79c7fc70-a615-4cde-a105-39089ea2c5f3.png" width="400" height="280" /></p>
+
+
                                                     
