@@ -28,6 +28,7 @@ Labelling is done on [roboflow](https://roboflow.com/)
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844006-b72dc54b-8f00-44b7-b4e8-284ade53c485.gif" width="250" height="140" /></p>
                                     
 Problems arise due to illumination change, camera orientation, false positive results (detect the gripper as an object, detect background as an object).  
+
 Solution: Applying thresholding on detection confidence score.
 
 - Test2. Full video is attached [Test2](https://drive.google.com/file/d/1ancea1p9NzBAG7z_7wcQ2mSaT_crPq88/view?usp=sharing).
