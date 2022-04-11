@@ -6,10 +6,10 @@ colored region initially specified by the operator.
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162748319-1fc91285-5d85-4501-b2fd-9bae62f6d7af.png" width="600" height="280" /></p>
 
 
-The challenges of this project go as follow:
-- Object Detection: YOLOv4 
-- Box Detection: Color Segmentation in HSI and Morphology operations
-- Pick and Place: Object center and orientation and Box center and orientation
-- Localization w.r.t Robot Base: Eye-In-Hand Camera Calibration and Transformations
-- Hardware Implementation: KUKA iiwa and ROS
+### The challenges of this project go as follow:
+- **Object Detection**: YOLOv4 
+- **Box Detection**: Color Segmentation in HSI and Morphology operations
+- **Pick and Place**: Object center and orientation and Box center and orientation
+- **Localization w.r.t Robot Base*: Eye-In-Hand Camera Calibration and Transformations
+- **Hardware Implementation**: KUKA iiwa and ROS
                                                     
