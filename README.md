@@ -44,3 +44,10 @@ Solution: Applying thresholding on detection confidence score.
 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845161-c5263d62-3fb4-417c-a40c-b67fa56fac89.png" width="1000" height="200" /></p>
 
+### Localization w.r.t Robot Base
+    - Camera Intrinsics
+    - Eye-In-Hand Camera Calibration
+    - Transformations
+
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162845702-f06cb3eb-bd89-42bc-8fab-6a26bfeab38c.png" width="500" height="200" /></p>
+
