@@ -23,5 +23,6 @@ Labelling is done on [roboflow](https://roboflow.com/)
 ### Dataset preprocessing and augmentations 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162843034-79c7fc70-a615-4cde-a105-39089ea2c5f3.png" width="500" height="280" /></p>
 
-
+Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1Jj9pPjrDcCJolud-DjOJNQA-P_LlzhYs/view?usp=sharing).
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/146718709-e6133856-d19b-4d92-b64f-51cbdda58c30.gif" width="300" height="280" /></p>
                                                     
