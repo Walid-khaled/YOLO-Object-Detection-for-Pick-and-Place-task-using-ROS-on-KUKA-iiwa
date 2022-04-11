@@ -23,6 +23,13 @@ Labelling is done on [roboflow](https://roboflow.com/)
 ### Dataset preprocessing and augmentations 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/162843034-79c7fc70-a615-4cde-a105-39089ea2c5f3.png" width="500" height="280" /></p>
 
-Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1i6OHv5xaYZdAKVNJCA2oywVlVbPEVjBz/view?usp=sharing).
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844006-b72dc54b-8f00-44b7-b4e8-284ade53c485.gif" width="500" height="280" /></p>
+### YOLO model testing for object detection
+- Test1. Full video is attached [test1](https://drive.google.com/file/d/1i6OHv5xaYZdAKVNJCA2oywVlVbPEVjBz/view?usp=sharing).
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844006-b72dc54b-8f00-44b7-b4e8-284ade53c485.gif" width="250" height="140" /></p>
                                     
+Problems arise due to illumination change, camera orientation, false positive results (detect the gripper as an object, detect background as an object).  
+Solution: Applying thresholding on detection confidence score.
+
+- Test2. Full video is attached [Test2](https://drive.google.com/file/d/1ancea1p9NzBAG7z_7wcQ2mSaT_crPq88/view?usp=sharing).
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/162844601-5b23ccc4-eaec-4402-b841-1047a62ac1ee.gif" width="250" height="140" /></p>
+
