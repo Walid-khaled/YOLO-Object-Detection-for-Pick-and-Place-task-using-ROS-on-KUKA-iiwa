@@ -1,4 +1,4 @@
-[Video](https://www.youtube.com/watch?v=7nD9INKZuLk)
+[[Video]](https://www.youtube.com/watch?v=7nD9INKZuLk)
 ## YOLO-Object-Detection-for-Pick-and-Place-task-using-ROS-on-KUKA-iiwa
 Robots use computer vision in many operations. In this repository, we are going to address one of these operations, pick and place, which is the most widely used in production lines and assembly processes. The aim of this project is to select 3 objects out of 6 objects in robot work environment, and place them in specific-colored regions, so that each object will be placed in colored region initially specified by the operator.
 
