@@ -1,7 +1,0 @@
-classes= 6
-train  = /home/pjreddie/data/coco/trainvalno5k.txt
-valid  = coco_testdev
-names = ./catkin_ws/src/beginner_tutorials/scripts/cfg/coco.names
-backup = /home/pjreddie/backup/
-eval=coco
-

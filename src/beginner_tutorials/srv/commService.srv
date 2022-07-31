@@ -1,7 +1,0 @@
-string f
-int64 x
----
-int64 index
-float64 dx
-float64 dy
-float64 angle
